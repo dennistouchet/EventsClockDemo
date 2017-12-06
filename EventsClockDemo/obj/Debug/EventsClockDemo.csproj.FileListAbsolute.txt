@@ -1,0 +1,7 @@
+C:\Users\Trey\Documents\Visual Studio 2017\Projects\EventsClockDemo\EventsClockDemo\bin\Debug\EventsClockDemo.exe.config
+C:\Users\Trey\Documents\Visual Studio 2017\Projects\EventsClockDemo\EventsClockDemo\bin\Debug\EventsClockDemo.exe
+C:\Users\Trey\Documents\Visual Studio 2017\Projects\EventsClockDemo\EventsClockDemo\bin\Debug\EventsClockDemo.pdb
+C:\Users\Trey\Documents\Visual Studio 2017\Projects\EventsClockDemo\EventsClockDemo\obj\Debug\EventsClockDemo.csprojResolveAssemblyReference.cache
+C:\Users\Trey\Documents\Visual Studio 2017\Projects\EventsClockDemo\EventsClockDemo\obj\Debug\EventsClockDemo.csproj.CoreCompileInputs.cache
+C:\Users\Trey\Documents\Visual Studio 2017\Projects\EventsClockDemo\EventsClockDemo\obj\Debug\EventsClockDemo.exe
+C:\Users\Trey\Documents\Visual Studio 2017\Projects\EventsClockDemo\EventsClockDemo\obj\Debug\EventsClockDemo.pdb
